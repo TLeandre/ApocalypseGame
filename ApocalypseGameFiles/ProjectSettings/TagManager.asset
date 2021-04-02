@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - SpawnPlayer
+  - Zombie
+  - Object
+  - Weapons
+  - Balles
+  - PickUpGold
+  - PickUpMunition
+  - PickUpCaisse
+  - PickUpGoldX2
+  - PickUpExtralife
+  - PickUpLife
+  - PickUpBoostDegat
+  - PickUpBoostSpeed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2050718797
+    locked: 0
+  - name: BackgroundObject
+    uniqueID: 828251899
+    locked: 0
+  - name: Range
+    uniqueID: 2485856601
+    locked: 0
+  - name: Object
+    uniqueID: 239602763
+    locked: 0
+  - name: PickUp
+    uniqueID: 547355803
+    locked: 0
+  - name: Zombie
+    uniqueID: 1995198987
+    locked: 0
+  - name: Players
+    uniqueID: 3296938525
+    locked: 0
+  - name: Weapons
+    uniqueID: 131791601
+    locked: 0
+  - name: Balles
+    uniqueID: 1463486919
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

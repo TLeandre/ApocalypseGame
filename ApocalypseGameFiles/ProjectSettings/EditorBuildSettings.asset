@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 9d6b0b2186980124398ba4f7ea9595c2
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4292f2ff82dc2434d8e4013880674b93
+  - enabled: 1
+    path: Assets/Scenes/Inventaire.unity
+    guid: c7b383b86ef348f4bb97301c2c5c48ea
+  - enabled: 1
+    path: Assets/Scenes/Changement de Joueur.unity
+    guid: 48cecc15a1f964544845c38f997ed00e
+  - enabled: 1
+    path: Assets/Scenes/Changement d'arme.unity
+    guid: 01e5a4ff975e5bc46ac6e541d1fcff5c
+  - enabled: 1
+    path: Assets/Scenes/Chargement.unity
+    guid: 38c0633aa118cf94aa58f9489976806f
+  - enabled: 1
+    path: Assets/Scenes/MondeSelection.unity
+    guid: ec823f526e8af4443b47963c3fd6dab0
+  - enabled: 1
+    path: Assets/Scenes/Monde_1.unity
+    guid: 8d7572352b2afdb4ea16925cafab3a75
+  - enabled: 1
+    path: Assets/Scenes/Monde_2.unity
+    guid: 137d4878f88cff84f8e2d8206d39985e
